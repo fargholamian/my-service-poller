@@ -117,9 +117,13 @@ For now, the project is here for you to read its code, not **at all** for produc
 
 * To run the app on local machinet, type in
   ```
+  gradle wrapper
   ./gradlew clean run
   ```
-  from the command-line.
+  from the command-line. or
+  ```
+  gradle clean run
+  ```
 
 ## Contributing
 
